@@ -1,0 +1,1 @@
+tar zcvf bnmf_v2.tar.gz contact_map.py yeast_chr_len.txt hg18_chr_len.txt HindIII_intersect_EcoRI_fdr0.01_inter.txt HindIII_intersect_EcoRI_fdr0.01_intra.txt IMR90.uij.chr22 IMR90.domain.txt *.ipynb *.html
